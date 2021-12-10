@@ -1,0 +1,22 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "homework1",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Starior/nodejs-practice/hw1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Starion",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
